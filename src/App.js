@@ -43,7 +43,7 @@ function App() {
           title="TextUtils "
           mode={mode}
           toggleMode={toggleMode}
-          about="about"
+          about="About"
         />
         <Alert alert={alert} />
       </div>
